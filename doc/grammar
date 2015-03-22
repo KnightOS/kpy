@@ -1,1 +1,17 @@
 kpy grammar goes here
+
+notes on vars:
+vars are 16 bit [0-65535]
+
+assignements
+-table  : var=[0,0,0...]
+-string : var='string'
+-number : var=0
+
+functions
+print()
+
+maths:
+* is multiplication
+/ is division
+^ is modulo
